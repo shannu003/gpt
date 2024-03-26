@@ -7,3 +7,7 @@ label {
     margin-bottom: 1rem;
   }
   
+  #display-image {
+    display: none;
+    max-width: 100%;
+  }
